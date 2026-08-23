@@ -20,7 +20,7 @@ Whenever your AI agent writes or changes code, it automatically updates a set of
 ├── 03-recipes.md             # Step-by-step guides (e.g., "How to add a new API route")
 ├── 04-debugging-cheatsheet.md# Common error fixes & test commands
 └── 05-decision-log.md        # Architectural rules you must NOT break
-
+```
 ⚡ Quick Setup
 Option 1: Copy-Paste to Any AI Agent
 Copy the contents of SYSTEM_PROMPT.md and paste it as a custom instruction or system prompt into Cursor, Windsurf, OpenCode, Claude Code, or Aider.
