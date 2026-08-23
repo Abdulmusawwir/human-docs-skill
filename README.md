@@ -21,14 +21,14 @@ Whenever your AI agent writes or changes code, it automatically updates a set of
 ├── 04-debugging-cheatsheet.md# Common error fixes & test commands
 └── 05-decision-log.md        # Architectural rules you must NOT break
 ```
-⚡ Quick Setup
+## ⚡ Quick Setup
 Option 1: Copy-Paste to Any AI Agent
 Copy the contents of SYSTEM_PROMPT.md and paste it as a custom instruction or system prompt into Cursor, Windsurf, OpenCode, Claude Code, or Aider.
 
 Option 2: Add as a Project Skill
 Save SYSTEM_PROMPT.md into your repository's workflow or rules folder (e.g., .cursor/rules/human-docs.md or .opencode/skills/human-docs.md).
 
-🔥 Key Features
+## 🔥 Key Features
 Emergency First: Includes 00-START-HERE.md so anyone can spin up the app offline with dummy local keys in under 5 minutes.
 
 Zero Dead Links: The prompt strictly forbids hallucinated file paths—every path mentioned in the docs must actually exist in your codebase.
